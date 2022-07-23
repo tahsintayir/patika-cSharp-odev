@@ -1,0 +1,8 @@
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\bin\Debug\patika-cSharp-deneme.exe.config
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\bin\Debug\patika-cSharp-deneme.exe
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\bin\Debug\patika-cSharp-deneme.pdb
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\obj\Debug\patika-cSharp-deneme.csproj.AssemblyReference.cache
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\obj\Debug\patika-cSharp-deneme.csproj.SuggestedBindingRedirects.cache
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\obj\Debug\patika-cSharp-deneme.csproj.CoreCompileInputs.cache
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\obj\Debug\patika-cSharp-deneme.exe
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev\patika-cSharp-deneme\obj\Debug\patika-cSharp-deneme.pdb
